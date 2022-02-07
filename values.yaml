@@ -1834,7 +1834,7 @@ concourse:
       #
       ## Example: "http://jaeger:14268/api/traces"
       ##
-      jaegerEndpoint: http://somethinig/api/traces
+      jaegerEndpoint:
 
       ## Tags to include to components
       ##
